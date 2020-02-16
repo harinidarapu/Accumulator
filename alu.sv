@@ -1,4 +1,5 @@
-// designing ALU in system Verilog
+
+//commented harini
 
 module alu (a,b,sel,out);
 
